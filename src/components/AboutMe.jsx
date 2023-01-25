@@ -40,7 +40,7 @@ export default function AboutMe() {
             fontSize={{ base: 'xl', md: '2xl' }}
             textAlign={'center'}
             maxW={'3xl'}>
-           I am a 3rd year student at Konya Technical University University, working toward my bachelor’s degree in Computer Science with heavy emphasis on programming and Web development. I imporve myself as a full-stack developer by constantly learning new technologies.
+           I am a 3rd year student at Konya Technical University, working toward my bachelor’s degree in Computer Science with heavy emphasis on programming and Web development. I imporve myself as a full-stack developer by constantly learning new technologies.
           </Text>
         </Box>
       </Stack>
